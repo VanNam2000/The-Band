@@ -219,7 +219,7 @@ scroll-behavior: smooth;
     
     margin-top: 46.6px;
     padding-top: 50%;
-    background: url('/assets/img/anh.jpg') top center / cover no-repeat;
+    background: url('../img/anh.jpg') top center / cover no-repeat;
     position: relative;
     
     
